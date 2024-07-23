@@ -1,6 +1,7 @@
 # Streamlit Name Entry App
 
-![Contribution activity](https://github.com/pintopaulopt/tkinter-name-entry-app/blob/main/Screenshot%202024-07-23%20at%2014.52.14.png)
+![Alt Text](https://raw.githubusercontent.com/pintopaulopt/tkinter-name-entry-app/main/Screenshot%202024-07-23%20at%2014.52.14.png)
+
 
 This is a simple Streamlit application that greets users by their entered name. 
 
