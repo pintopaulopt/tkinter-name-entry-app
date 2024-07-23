@@ -1,5 +1,7 @@
 # Streamlit Name Entry App
 
+![Contribution activity](https://github.com/pintopaulopt/tkinter-name-entry-app/blob/main/Screenshot%202024-07-23%20at%2014.52.14.png)
+
 This is a simple Streamlit application that greets users by their entered name. 
 
 ## Features
@@ -15,5 +17,3 @@ To run this app locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
-
-Link to final project: https://tkinter-name-entry-app-2u4sppinae4h7feyixvugd.streamlit.app/
