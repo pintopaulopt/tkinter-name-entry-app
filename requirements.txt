@@ -1,2 +1,3 @@
-# requirements.txt
-# Any other dependencies should be listed here,
+numpy
+pandas
+matplotlib
