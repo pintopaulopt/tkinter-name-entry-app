@@ -1,22 +1,19 @@
 import tkinter as tk
 
-def greet():
+def on_submit():
     name = entry.get()
-    greeting_label.config(text=f"Hello, {name}!")
+    label.config(text=f"Hello, {name}!")
 
-# Set up the main window
 root = tk.Tk()
 root.title("Name Entry App")
 
-# Create and place widgets
+label = tk.Label(root, text="Enter your name:")
+label.pack()
+
 entry = tk.Entry(root)
-entry.pack(pady=10)
+entry.pack()
 
-greet_button = tk.Button(root, text="Greet", command=greet)
-greet_button.pack(pady=5)
+submit_button = tk.Button(root, text="Submit", command=on_submit)
+submit_button.pack()
 
-greeting_label = tk.Label(root, text="")
-greeting_label.pack(pady=10)
-
-# Run the application
 root.mainloop()
