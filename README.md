@@ -1,25 +1,19 @@
-# tkinter-name-entry-app# tkinter Name Entry App
+# Streamlit Name Entry App
 
-This is a simple `tkinter` app that allows the user to enter their name and displays a greeting message.
+This is a simple Streamlit application that greets users by their entered name. 
 
-## How to Run
+## Features
 
-### Run in MyBinder
+- Input your name in a text field.
+- Receive a personalized greeting.
 
-You can run the app in a live environment using MyBinder. Click the link below to launch:
+## Getting Started
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pintopaulopt/tkinter-name-entry-app/HEAD)
+To run this app locally, follow these steps:
 
-## How to Run Locally
-
-1. **Ensure you have Python and `tkinter` installed on your machine**:
-   - Python 3.x: [Download Python](https://www.python.org/downloads/)
-   - `tkinter` should be included with Python. You can check by running:
-     ```bash
-     python3 -c "import tkinter; print('tkinter is installed')"
-     ```
-
-2. **Clone the repository**:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pintopaulopt/tkinter-name-entry-app.git
-   cd tkinter-name-entry-app
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
+
+Link to final project: https://tkinter-name-entry-app-2u4sppinae4h7feyixvugd.streamlit.app/
