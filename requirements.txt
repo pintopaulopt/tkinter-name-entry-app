@@ -1,2 +1,2 @@
-# Example dependencies
-tkinter
+# requirements.txt
+# Any other dependencies should be listed here, excluding tkinter
